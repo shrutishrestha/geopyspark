@@ -84,7 +84,7 @@ raster.
 Creating the RDD
 ----------------
 
-With our raster data in hand, we can how begin the creation of a Python
+With our raster data in hand, we can now begin the creation of a Python
 ``RDD``. Please see the `core concepts <core-concepts.ipynb>`__ guide
 for more information on what the following instances represent.
 
